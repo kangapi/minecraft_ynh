@@ -32,23 +32,6 @@
     ],
     "arguments": {
         "install": [
-            {
-                "name": "admin",
-                "type": "string",
-                "ask": {
-                    "en": "Choose the server Admin (Minecraft pseudo)",
-                    "fr": "Choisissez l'administrateur du serveur (pseudo Minecraft)"
-                }
-            },
-            {
-                "name": "port",
-                "type": "int",
-                "ask": {
-                    "en": "Set the server port",
-                    "fr": "Entrée le port du serveur"
-                },
-                "default": "25565"
-            }
         ]
     }
 }
