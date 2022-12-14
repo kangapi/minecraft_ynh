@@ -45,7 +45,7 @@
                 "type": "string",
                 "ask": {
                     "en": "Set the server port",
-                    "fr": "Entrée le port du serveur"
+                    "fr": "Entrez le port du serveur"
                 },
                 "default": "25565"
             }
